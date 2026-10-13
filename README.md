@@ -20,7 +20,8 @@ This project analyzes Airbnb listing data to explore pricing, neighbourhood rati
 - Filters and interactive analysis
 
 ## Files
-- `dashboard.png` — Dashboard preview
+<img width="1305" height="687" alt="image" src="https://github.com/user-attachments/assets/37820f44-d97b-4341-a44e-e2398fd4fab4" />
+
 - Tableau workbook — Interactive dashboard
 
 ## Note
